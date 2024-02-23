@@ -1,0 +1,44 @@
+
+.home_style {
+    background-color: #092d66;
+}
+
+.home-image {
+    height: 300px;
+    width: 300px;
+    margin: 50px;
+    border-radius: 20px;
+}
+
+.home_head {
+    color: white;
+    font-family: "Serif";
+}
+
+.home_page:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s;
+}
+
+.home_para {
+    color: white;
+    font-family: "cursive";
+    font-size: 25px;
+}
+
+.home_para_head {
+    color: white;
+    font-family: "Serif";
+}
+
+.botn {
+    background-color: #686f7a;
+    padding: 10px;
+    margin: 5px;
+    color: black;
+}
+
+.contact_us_heading {
+    text-align: center;
+    color: white;
+}
